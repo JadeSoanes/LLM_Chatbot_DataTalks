@@ -2,7 +2,7 @@
 
 * Part of the Data Talks Club LLM Zoomcamp
 * Connecting to the Open AI API.
-* __The code and notes are contained in the Jupyter Notebook saved in this repo.__
+* __The code and notes are contained in the Jupyter Notebook called 'ElasticRAG' saved in this repo.__
 
 ## The Task 📝
 
